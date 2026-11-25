@@ -5,6 +5,10 @@
 
 The application provides secure user authentication, email OTP verification, and MongoDB-based data persistence.
 
+> 🚧 **Project Status: Work in Progress**
+>
+> Pocketwise is currently under active development. New features, improvements, UI enhancements, and optimizations are still being worked on. The project is not yet in its final version.
+
 ## 📸 Project Screenshots
 
 ### Screenshot 1
